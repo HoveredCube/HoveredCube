@@ -9,4 +9,4 @@
 
 <h3 align="left">Some of my Work is Published here:</h3>
 
-<image src="https://github.com/HoveredCube/HoveredCube/blob/main/meow%20compiles%20widget.png">
+<image src="https://github.com/HoveredCube/HoveredCube/blob/main/meowcompiles.png">
