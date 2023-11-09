@@ -1,7 +1,7 @@
 # Hovered Cube
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=1700&pause=120&color=68DFB8&repeat=false&random=false&width=200&height=35&lines=I+am+%3A)](https://git.io/typing-svg)
 
+# I am :
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1700&pause=120&color=24DAAB&multiline=true&repeat=false&random=false&width=542&height=300&lines=App+Developer;Graphic+Designer;Content+Creator;Coffee+Lover)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
