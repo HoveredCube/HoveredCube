@@ -13,6 +13,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoveredcube&theme=gotham&hide_border=false)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
 <h3 align="left">Some of my Work is Published here:</h3>
 
 <a href="https://github.com/MeowCompiles"> <image src="https://github.com/HoveredCube/HoveredCube/blob/main/meowcompiles.png"> </a>
