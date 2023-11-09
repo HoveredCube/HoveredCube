@@ -8,3 +8,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=1700&pause=120&color=30CA98&multiline=true&repeat=false&random=false&width=250&height=200&lines=App+Developer;Graphic+Designer;Content+Creator;Student;Coffee+Lover;Gamer)](https://git.io/typing-svg)
 
 <h3 align="left">Some of my Work is Published here:</h3>
+
+<image src="https://github.com/HoveredCube/HoveredCube/blob/main/meow%20compiles%20widget.png">
