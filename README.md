@@ -1,7 +1,7 @@
 <image src="https://github.com/HoveredCube/HoveredCube/blob/main/HoveredCube header.png" alt="hovered cube header">
 
 <p>
-  Hi My real name is Mohsen, or you can just call me Mason! I am a really motivated programmer and my main passion in this field is to create little (or maybe big) start up applications and tools. I'm currently mastering my flutter skills, designing stunning UI/UX, studying Software engineering, and creating programming related tutorial videos on my <a href="https://www.youtube.com/@HoveredCubeOfficial/">YouTube Channel</a>.
+  Hi My real name is Mohsen, or you can just call me Mason! I am a really motivated programmer and my main passion in this field is to create little (or maybe big) start up applications and tools. I'm currently mastering my flutter skills, designing stunning UI/UX, studying Software engineering in the Azad University of Mashhad-Iran, and creating programming related tutorial videos on my <a href="https://www.youtube.com/@HoveredCubeOfficial/">YouTube Channel</a>.
 </p>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qFYGzZFGrZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hoveredcube/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/hoveredcube) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/c/HoveredCubeOfficial) 
